@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Please note I do not read all books cover to cover - i skim read the main arguments and I relied heavily upon the summaries that I also provide next to each book. Whilst I may have missed a detailed argument by an author, i feel by reading faster and across multiple books - i can start to see common discussion points and arguments put forward in multiple books on the same subject. This website is part of a broader initiative called Capability Drive which you can find at capabilitydrive.com{:target="_blank"}
+Please note I do not read all books cover to cover - i skim read the main arguments and I relied heavily upon the summaries that I also provide next to each book. Whilst I may have missed a detailed argument by an author, i feel by reading faster and across multiple books - i can start to see common discussion points and arguments put forward in multiple books on the same subject. This website is part of a broader initiative called Capability Drive which you can find at [capabilitydrive.com](https://www.capabilitydrive.com/){:target="\_blank"}
 
 <br><br><br>
 
