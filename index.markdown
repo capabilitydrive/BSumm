@@ -12,7 +12,7 @@ Please note I do not read all books cover to cover - i skim read the main argume
 <div class="section AI" id="AI">
 </div>
 
-**Artificial Intelligence** [blog article](http://127.0.0.1:4000/jekyll/update/2022/10/01/welcome-to-jekyll.html){:target="\_blank"}<br>
+**Artificial Intelligence** <br>
 
 | Cover                                                                 | Book Name         | Author         | Link                                                                                                                                          |
 | --------------------------------------------------------------------- | ----------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
